@@ -226,13 +226,10 @@ model = models.Model(inputs=inputs, outputs=outputs, name="Simple_HHG_DNN")
 
 ### 5.4 Results
 
-![[fig 1.png]]
-
-![[fig2.png]]
-
-![[fig3.png]]
-
-![[fig4.png]]
+![Figure 4](images/fig4.png)
+![Figure 5](images/fig5.png)
+![Figure 6](images/fig6.png)
+![Figure 7](images/fig7.png)
 
 ### 5.3 Conclusion
 
