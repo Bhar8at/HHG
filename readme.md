@@ -170,9 +170,9 @@ RandomForestRegressor(
 #### 4.3.3 Model Performance
 
 After training on synthetic TDSE data:
-![images/fig1.png]
-![images/fig2.png]
-![images/fig3.png]
+![Figure 1](images/fig1.png)
+![Figure 2](images/fig2.png)
+![Figure 3](images/fig3.png)
 
 ---
 
